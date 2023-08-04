@@ -4,7 +4,7 @@ Assignment to be submitted on August 5th, 2023.
 
 Questions include using node modules to:
 1. Write a program to do the following using, path, os, and process modules:
--Print out the current working directory
+  -Print out the current working directory
 +Print out the separator of a given file path
 +Print out the extension name of a file path
 +Print out the process id of the current running process
