@@ -5,6 +5,7 @@ Assignment to be submitted on August 5th, 2023.
 Questions include using node modules to:
 1. Write a program to do the following using, path, os, and process modules:
 Print out the current working directory
+
 Print out the separator of a given file path
 Print out the extension name of a file path
 Print out the process id of the current running process
@@ -12,7 +13,7 @@ Print out the user information of the os
 Print out the platform of an operating system
 
 
-2. Using the FS module:
+3. Using the FS module:
 Create a directory/folder named: “Students”
 In the Students directory, create a file named user.js
 Update the Students directory to “Names”
@@ -25,7 +26,7 @@ Delete the directory “Names”
 
 
 
-3. Using the HTTP module
+4. Using the HTTP module
 Create an HTTP server
 Return “Hello world” from the response
 Ensure when you navigate to the server on the browser, “Hello world” is returned.
