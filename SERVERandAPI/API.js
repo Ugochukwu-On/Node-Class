@@ -75,7 +75,7 @@ const server = http.createServer((req, res) => {
       }
     });
   }
-
+//DELETE
   if (req.method === 'DELETE' && parsedUrl.pathname.startsWith('/inventory/')) {
     const itemId = parseInt(parsedUrl.pathname.split('/')[2]);
     const index = inventory.findIndex((item) => item.id === itemId);
