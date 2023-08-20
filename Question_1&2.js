@@ -138,7 +138,7 @@ console.log('Gender:', user.gender);
 console.log('Occupation:', user.Occupation);
 `;
 
- // Get the file path
+ // Get the file path.
 const file_Path = path.join(folderName, fileName);
 
  // 6,7,8&9. read Update and delete the content of the file
